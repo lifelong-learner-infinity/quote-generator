@@ -1,0 +1,1 @@
+Simple quote generator Project
